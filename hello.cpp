@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World!";
+    std::string f = "Hello World!";
+    std::cout << f;
 }
